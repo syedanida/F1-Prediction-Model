@@ -1,0 +1,8 @@
+{
+  "model": "random_forest_fallback",
+  "accuracy": 0.7811158798283262,
+  "f1": 0.7723214285714286,
+  "roc_auc": 0.8518283135304412,
+  "train_rows": 7141,
+  "test_rows": 466
+}

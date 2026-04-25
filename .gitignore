@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.cache/
+.DS_Store
+
+# Python cache/artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Local notebooks/checkpoints
+.ipynb_checkpoints/
+
+# Generated datasets
+data/raw/
+data/processed/
