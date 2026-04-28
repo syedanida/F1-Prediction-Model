@@ -1,8 +1,8 @@
 # F1 Race Prediction Model
 
-Short intro: this is my end-to-end Formula 1 ML project that predicts whether a driver will finish in points (`target_points`) for each race entry.
+This is an end-to-end Formula 1 ML project that predicts whether a driver will finish in points (`target_points`) for each race entry.
 
-I built a full pipeline from raw API data to model training, evaluation, and visual reporting.
+Built a full pipeline from raw API data to model training, evaluation, and visual reporting.
 
 ---
 
